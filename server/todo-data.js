@@ -1,8 +1,18 @@
-let todosCreated = 1;
+let todosCreated = 3;
 
 let todos = [{
 	id: 1,
 	text: 'Finish coding exercise',
+	completed: true
+},
+{
+	id: 2,
+	text: 'Submit project',
+	completed: true
+},
+{
+	id: 3,
+	text: 'Wait for call',
 	completed: false
 }];
 
