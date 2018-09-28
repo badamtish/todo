@@ -8,4 +8,36 @@ I have used Webpack Hot Module Replacement for faster development. And ESlint fo
 ### UI Enchancement 
 I have used Material UI Components.
 
+### Deployment 
+
+#### Prerequisites
+You need Node v10 to run this app.
+Verify node version
+```
+node -v
+```
+
+> If node version is less than 10 update [node](https://www.npmjs.com/get-npm)
+
+#### Instructions
+Clone the repo 
+
+```
+$ git clone https://github.com/badamtish/todo-app
+$ cd todo-app
+```
+
+Install node dependenies
+```
+$ yarn install
+```
+
+Start the app
+```
+$ yarn start
+```
+
+Navigate to [app](http://localhost:3001/)
+
+
 
